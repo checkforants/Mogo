@@ -647,7 +647,8 @@ hr {
 
 /* Works */
 .works {
-    display: flex; 
+    display: flex;
+    overflow-x: scroll;
 }
 
 .works__col {
